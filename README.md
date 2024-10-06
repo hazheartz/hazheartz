@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Haseena, interested in all things front end development and UI/UX.
+- 🔭 I’m currently working on courses and projects in creating full e-commerce web application in react frameworks...
+- 🌱 I’m currently learning to improve my skills in javascript and object oriented programming ...
+- 👯 I’m looking to collaborate on ideas to collaborate and network. Find me on [LinkedIn](https://www.linkedin.com/in/haseenabanu/).
 <!--
 **hazheartz/hazheartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
